@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **tarun0029/tarun0029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h1 align="center">Hi 👋, I'm Tarun Chandravanshi</h1>
+<h3 align="center">IT'24 MNNIT, Allahabad</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarun0029&" alt="tarun0029" /></p>
